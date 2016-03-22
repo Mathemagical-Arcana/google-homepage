@@ -1,10 +1,17 @@
 body {
-	-webkit-appearence: none;
 	font-size: 14px
-	color: navy;
+	color: transparent;
+	margin: 0;
+	padding: 0;
 }
 
 h1{
-	color: #ffc;
-	background-color: #009;
+	color: black;
+	background-color: white;
+	align-content: center;
+}
+div{
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
 }
