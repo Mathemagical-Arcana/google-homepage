@@ -8,7 +8,7 @@ a{
 	text-decoration:none;
 	color:#303030;
 }
-a:hover{text-decoration: underline;}
+a:hover{text-decoration: underline; color:blue;}
 #top_bar{
 	display:block;
 	background-color:white;
